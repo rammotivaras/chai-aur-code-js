@@ -34,7 +34,26 @@ let booleanIsLogedIn = Boolean(isLogedIn);
 let someNumber = 25
  let stringNumber = String(someNumber) ; 
   
- console.log(stringNumber);
- console.log(typeof stringNumber);
+//  console.log(stringNumber);
+//  console.log(typeof stringNumber);
+
+// ******************************** Operation ************************************************
+
+// let value = 3
+
+//  let nagetive = -value 
+//  console.log(nagetive);
  
+ let str1 = 'hello';
+ let str2 = ' ram'; 
+
+ let str3 = str1 + str2 ;
+
+//  console.log(1 + 2);
+//  console.log('1' + 2);
+//  console.log(1 + '2');
+//  console.log(1 + 2 + '2');
+//  console.log('1' + 2 + '2');   // 122
+//  console.log('1' + 2 + '2' + 4);   //1124
  
+// console.log((3 + 4) * (5 % 3));
